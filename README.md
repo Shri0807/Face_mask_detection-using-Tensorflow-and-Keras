@@ -27,6 +27,7 @@ Note:-
 > The only Prerequisite for MobileNet_v2 is that the image needs to of size 224x224. Remember to resize the image when using MobileNet_v2.
 
 The trained model is later loaded into mask_video.py for testing.
+
 --------------------------------------------------------
 
 ## mask_video.py
